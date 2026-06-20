@@ -1,4 +1,4 @@
-### Task 1: Live Network Sniffer & Packet Analyzer
+### Task : Live Network Sniffer & Packet Analyzer
 A Python-based network sniffer developed during my internship at Arch Technologies using the `Scapy` library.
 
 **Features:**
